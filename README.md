@@ -24,6 +24,7 @@ The project uses the following technologies, feel free to use any technologies t
 
 - **NEXT JS**
 - **Tailwind CSS**
+- **Firebase**
 
 
 ## Installation
