@@ -35,7 +35,7 @@ To install the application, follow these steps:
 2. Clone the forked repository using the command `git clone <forked-repository-url>`
 3. Navigate to the project directory using the command `cd <project-directory>`
 4. Install the dependencies using the command `npm install`
-5. Start the application using the command `npm start`
+5. Start the application using the command `npm run dev`
 
 ## Conclusion
 
