@@ -40,3 +40,10 @@ To install the application, follow these steps:
 ## Conclusion
 
 This e-commerce website for used AirPods is an exciting project that provides users with a platform to sell or buy used AirPods. The project uses a modern tech stack to ensure that the application is secure, scalable, and has a great user interface. By implementing the features outlined in this readme, developers can create an application that meets the needs of users and provides a great user experience.
+
+## Contributors
+
+1.[Sai Charan](github.com/saicharan1901)
+2.[Oshin Saraf](github.com/oshinsaraf)
+3.[Kaashika Agrawal](github.com/kaashikaagrawal)
+4.[Pranit Pai](github.com/Pai06)
