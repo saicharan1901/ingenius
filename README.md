@@ -43,7 +43,7 @@ This e-commerce website for used AirPods is an exciting project that provides us
 
 ## Contributors
 
-1.[Sai Charan](github.com/saicharan1901)
-2.[Oshin Saraf](github.com/oshinsaraf)
-3.[Kaashika Agrawal](github.com/kaashikaagrawal)
-4.[Pranit Pai](github.com/Pai06)
+1. [Sai Charan](github.com/saicharan1901) <br>
+2. [Oshin Saraf](github.com/oshinsaraf) <br>
+3. [Kaashika Agrawal](github.com/kaashikaagrawal)<br>
+4. [Pranit Pai](github.com/Pai06)
